@@ -1,5 +1,6 @@
 ### Dokmentasi TA 2 PJK
 #### Link Youtube:
+https://youtu.be/DEr6R9jlgBc
 
 #### Capture Pada Saat Gagal PING
 <img width="856" height="426" alt="Screenshot 2025-11-02 201841" src="https://github.com/user-attachments/assets/89d746cc-952c-4ff2-a5a2-f41db3715a20" />
